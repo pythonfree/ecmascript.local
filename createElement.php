@@ -10,15 +10,7 @@
 <body>
 
 
-<script src="main.js?<?= rand(0, PHP_INT_MAX); ?>"></script>
-
-<?php
-
-//for (;;) {
-//    echo 'hello';
-//}
-
-?>
+<script src="createElement.js?<?= rand(0, PHP_INT_MAX); ?>"></script>
 
 </body>
 </html>
